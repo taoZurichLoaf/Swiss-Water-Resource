@@ -8,7 +8,7 @@ Spatial Database
 
 ## 2. Conceptual Design
 - ER Model 
-<img src="https://cabbagetownpetclinic.com/files/2022/12/GIngerCat2.jpg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
+<img src="ERModel.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
 
 ## 3. Logic Design
 - Relational Model
