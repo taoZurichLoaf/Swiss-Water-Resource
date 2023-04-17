@@ -1,4 +1,4 @@
-# Swiss-Water-Resource
+# Swiss-Water-Resources
 Spatial Database 
 
 ## 1. Analyze Relevant Datasets
