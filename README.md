@@ -2,9 +2,9 @@
 Spatial Database 
 
 ## 1. Analyze Relevant Datasets
-- river topology (river size type, level type, discharge type, soil type, slope type)
+- River topology (river size type, level type, discharge type, soil type, slope type)
 - Water measurement stations (discharge, waterlevel and temperature) 
-- biogeographical regions
+- Biogeographical regions
 
 ## 2. Conceptual Design
 - ER Model 
@@ -14,8 +14,8 @@ Spatial Database
 - Relational Model
 
 ## 4. Physical Design
-- tables
-- datatype
+- Tables
+- Datatype
 
 ## 5. Loading Data
 
